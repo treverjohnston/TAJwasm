@@ -1,0 +1,55 @@
+﻿# ==============================
+# .NET / Blazor WebAssembly
+# ==============================
+
+# Build results
+bin/
+obj/
+
+# Blazor WASM published output
+wwwroot/_content/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / ReSharper
+.idea/
+*.DotSettings.user
+
+# Visual Studio
+.vs/
+.vscode/
+
+# ASP.NET secrets
+secrets.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / frontend tooling (if used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage/
+
+# Test results
+TestResults/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Publish output
+publish/
